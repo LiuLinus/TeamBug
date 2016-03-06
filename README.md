@@ -1,4 +1,4 @@
-# Bug
+# Team Bug
 
 ## 简介
 
@@ -6,4 +6,4 @@
 
 ## 队伍组成
 
-kingcos[个人博客](http://maimieng.com)
+[kingcos](http://maimieng.com)
