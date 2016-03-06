@@ -20,12 +20,18 @@ Powered by [kingcos](http://maimieng.com).
 
 > 在最开始，我们应当学会提问。在生活中，曾有很多人向我询问电脑相关的问题，其实那些问题并不是大问题，而问题是提问的人抓不到问题的点。其实，不论是使用搜索引擎，或是直接问人，一个好的提问也许就是答案的线索。
 
+- 什么是 Markdown？
+
+参考资料：
+
+- 
+
 ---
 
 ## 前端
 
 - [MDN: HTML 入门](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Introduction)
-- [MDN: What is CSS](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Getting_started)
+- [MDN: CSS 入门教程](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Getting_started)
 - [W3School](http://w3school.com.cn/html5/index.asp)
 - [W3C HTML5 Differences from HTML4](http://www.w3.org/TR/html5-diff/)
 - []()
