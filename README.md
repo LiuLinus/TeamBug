@@ -2,7 +2,8 @@
 
 ## 简介
 
-这是一个参加[百度前端技术学院](http://ife.baidu.com) 2016 春季班的团队。手机端访问请点击下方 [View all of README.md](README.md)。
+这是一个参加[百度前端技术学院](http://ife.baidu.com) 2016 春季班的团队。
+手机端访问请点击下方 [View all of README.md](README.md)。
 
 ## 要求
 
