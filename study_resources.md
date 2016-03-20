@@ -24,9 +24,10 @@ Powered by [kingcos](http://maimieng.com).
 
 ## 前端
 
+- [20 THINGS I LEARNED ABOUT BROWSERS AND THE WEB](http://www.20thingsilearned.com/zh-CN/home)
 - [MDN: HTML 入门](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Introduction)
 - [MDN: CSS 入门教程](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Getting_started)
-- [W3School](http://w3school.com.cn/html5/index.asp)
+- [W3School](http://w3school.com.cn/h.asp)
 - [W3C: HTML5 Differences from HTML4](http://www.w3.org/TR/html5-diff/)
 - []()
 
