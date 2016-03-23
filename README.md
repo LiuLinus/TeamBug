@@ -15,7 +15,7 @@
 ## 队伍组成
 
 - [kingcos](http://maimieng.com)
-- 由于其他人暂时未学习 Git，暂由 kingcos 代替
+- 由于其他人暂时未学习 Git，暂由本人代为 Commit
 
 ## 学习资料
 
