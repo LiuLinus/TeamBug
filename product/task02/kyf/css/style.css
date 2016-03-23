@@ -1,0 +1,151 @@
+/* CSS Document */
+body{
+	line-height:30px;
+	background-color:#CCC;
+	
+	}
+	
+.nav
+{
+    height: 60px;
+    padding: 0;
+	background-color:#000;
+}
+
+.nav img
+{
+	padding-left:20px;
+	width:150px;
+	height:60px;
+    float: left;
+	opacity:0.2;
+	-moz-opacity:0.5;
+	-ms-opacity:0.5;
+	-o-opacity:0.5;
+	-webkit-opacity:0.5;
+}
+
+.nav ul
+{
+    float: right;
+}
+
+
+.nav a{
+	 text-decoration:none;
+	 }
+.nav li
+{
+    display: inline-block;
+	
+}
+
+	
+div{
+	background-color:#FFF;
+	border:solid 2px #666666;
+	margin-top:10px;
+	}
+	
+h2{
+	color: #999;
+  }
+  
+.head li{
+	list-style:none;
+	}
+	
+.c1{
+	color:#999;
+	}
+	
+.head{
+		width:1500px;
+		height:800px;
+		margin-left:15px;
+		padding-left:30px;
+	}
+.picture{
+		width:1500px;
+		height:2600px;
+		margin-left:15px;
+		padding-left:30px;
+		}
+		
+.pic1{
+	margin-left:50px;
+	width:225px;
+	height:230px;	
+	}
+	
+.pic1 img{
+	margin-left:-10px;		
+	}
+	
+.biaoge{
+	    width:1500px;
+		height:600px;
+		margin-left:15px;
+		padding-left:30px;
+	}
+	
+.t1{
+		background-color:#333;
+		color:#FFF;
+		font-family:fantasy;
+		
+	}
+	
+.t2{
+	background-color:#CCC;
+	}
+	
+.input{
+	width: 1530px;
+	height: 520px;
+	margin-left: 15px;
+	padding-left: 30px;
+	text-align:left;
+	}
+	
+label{
+	display: inline-block;
+	text-align:right;
+	width:30%;
+	padding-right:20px;
+	
+	}
+.lab1{
+	float:left;
+	margin-left:210px;
+	color:#999;
+}
+#lab2{
+	border:0px;
+	width:1500px;}
+.span1{
+	text-align:right;
+	float:left;
+	width:470px;
+	}
+.span2{
+	float:right;
+	padding-right:80px;}
+.button{
+	background-color: #0047b3;
+	border-style: none;
+	border-radius:10px;
+	width: 1500px;
+	height: 40px;
+	color: #fff;
+	font-size: 1em;
+	}
+	
+.foot{
+	height: 50px;
+	background-color: #000;
+	color: #fff;
+	font-size: 15px;
+	text-align: center;
+	padding-top: 20px;
+	}
