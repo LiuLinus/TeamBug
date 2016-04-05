@@ -113,11 +113,6 @@ article li {
     color: #FFFFFF;
 }
 
-aside {
-    /*float: right;*/
-    /*width: 250px;*/
-}
-
 aside blockquote {
     border-left: 4px solid #ccc;
     padding-left: 10px;
