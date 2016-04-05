@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>Task 02 by Bug</title>
-    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
     <header class="mainHeader">
@@ -132,59 +132,58 @@
             </table>
         </section>
     </article>
-
     <aside>
         <header>
-            <h3><blockquote>注册账号</blockquote></h3>
+            <h3>账号注册</h3>
         </header>
         <div class="form">
             <form>
-            <div class="formRow">
-                <div class="formColOne">请输入邮箱地址：</div>
-                <div class="formColTwo"><input type="text" placeholder="这是一个文本输入框"></div>
+            <div>
+                <div class="record">请输入邮箱地址：</div>
+                <input type="text" placeholder="这是一个文本输入框">
             </div>
-            <div class="formRow">
-                <div class="formColOne"></div>
-                <div class="formColTwo"><span class="iptTip">邮箱地址请按要求格式输入</span></div>
+            <div>
+                <div class="iptTip">
+                    邮箱地址请按要求格式输入
+                </div>
             </div>
-            <div class="formRow">
-                <div class="formColOne">请输入密码：</div>
-                <div class="formColTwo"><input type="password"></div>
+            <div>
+                <div class="record">请输入密码：</div>
+                <input type="password">
             </div>
-            <div class="formRow">
-                <div class="formColOne">请重复输入密码：</div>
-                <div class="formColTwo"><input type="password"></div>
+            <div>
+                <div class="record">请重复输入密码：</div>
+                <input type="password">
             </div>
-            <div class="formRow">
-                <div class="formColOne"></div>
-                <div class="formColTwo"><span class="iptTip">密码请为6-16位英文数字</span></div>
+            <div>
+                <div class="iptTip">
+                    密码请为6-16位英文数字
+                </div>
             </div>
-            <div class="formRow">
-                <div class="formColOne">性别：</div>
-                <div class="formColTwo"><label><input type="radio" name="sex" checked>男</label>
-                <label><input type="radio" name="sex">女</label></div>
+            <div>
+                <div class="record">性别：</div>
+                <label><input type="radio" name="sex" checked>男</label>
+                <label><input type="radio" name="sex">女</label>
             </div>
-            <div class="formRow">
-                <div class="formColOne">城市：</div>
-                <div class="formColTwo"><select name="city">
+            <div>
+                <div class="record">城市：</div>
+                <select name="city">
                     <option selected>河南</option>
                     <option>北京</option>
                     <option>上海</option>
-                </select></div>
+                </select>
             </div>
-            <div class="formRow">
-                <div class="formColOne">爱好：</div>
-                <div class="formColTwo">
-                    <label><input type="checkbox">运动</label>
-                    <label><input type="checkbox">艺术</label>
-                    <label><input type="checkbox">科学</label>
-                </div>
+            <div>
+                <div class="record">爱好：</div>
+                <label><input type="checkbox">运动</label>
+                <label><input type="checkbox">艺术</label>
+                <label><input type="checkbox">科学</label>        
             </div>
-            <div class="formRow">
-                <div class="formColOne">个人描述：</div>
-                <div class="formColTwo"><textarea id="descTxt" cols="50" rows="8">请输入您的个人描述</textarea></div>
+            <div>
+                <div class="record">个人描述：</div>
+                <textarea id="descTxt" cols="50" rows="8">请输入您的个人描述</textarea>
             </div>
-            <input id="submitBtn" type="submit" value="确认提交">
+            <button id="submitBtn" type="submit">确认提交</button>
             </form>
         </div>
     </aside>

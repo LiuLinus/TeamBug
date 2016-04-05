@@ -24,14 +24,10 @@ body {
     float: right;
 }
 
-.mainNav ul {
-    padding-top: 25px;
-}
-
 .mainNav li {
     float: left;
     width: 100px;
-    font-size: 17px;
+    line-height: 70px;
 }
 
 .mainNav a {
@@ -117,6 +113,11 @@ article li {
     color: #FFFFFF;
 }
 
+aside {
+    /*float: right;*/
+    /*width: 250px;*/
+}
+
 aside blockquote {
     border-left: 4px solid #ccc;
     padding-left: 10px;
@@ -126,22 +127,11 @@ aside .form {
     line-height: 40px;
 }
 
-.formRow {
-    display: table-row;
-}
-
-.formRow div {
-    display: table-cell;
-}
-
-.formColOne {
+.record {
+    width: 50%;
     text-align: right;
-    padding-left: 300px;
-}
-
-.formColTwo {
-    text-align: left;
-    padding-right: 300px;
+    display: inline-block;
+    vertical-align: top;
 }
 
 #descTxt {
@@ -152,12 +142,12 @@ aside .form {
 .iptTip {
     font-size: 15px;
     color: #e8ecef;
+    margin-left: 50%;
 }
 
 #submitBtn {
     color: #e8ecef;
     font-size: 15px;
-    font-family: "微软雅黑";
     background-color: #3355D0;
     text-align: center;
     border-radius: 10px;
